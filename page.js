@@ -1,6 +1,6 @@
 module.exports = {
 
-    // Inputs
+    
     fromField: '#from',
     toField: '#to',
     phoneNumberField: '#phone',
@@ -9,7 +9,7 @@ module.exports = {
     cvvCreditCard: '.card-second-row #code',
     messegeDriver: '#comment',
 
-    // Buttons
+
     callTaxiBtn: 'button=Call a taxi',
     phoneNumberBtn: '//div[starts-with(text(), "Phone number")]',
     nextBtn: 'button=Next',
@@ -31,12 +31,12 @@ module.exports = {
     orderTime: '//div[@class="order-header-time"]',
     orderProgress: '//div[@class="order-progress"]',
 
-    // Modals
+
     phoneNumberModal: '.modal',
     paymentMetodModal: '.payment-picker.open',
     closeModalBtn: '/html/body/div/div/div[2]/div[2]/div[1]/button',
 
-    // Functions
+  
     fillAddresses: async function(from, to) {
         const fromField = await $(this.fromField);
         await fromField.setValue(from);

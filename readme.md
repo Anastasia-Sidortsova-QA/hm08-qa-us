@@ -15,6 +15,7 @@ Devtools:
 2. Change your current directory to the project folder: cd hm08-qa-us. 
 3. Run the npm install from the console in your project folder. 
 4. Replace the API URL with the unique link generated after the launch of Urban Routes server in the wdio.conf.js file.
+5. Run tests with npm run wdio
 
 ##### Test Scenarios Covered
 Setting the address
