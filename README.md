@@ -4,11 +4,11 @@
 This project includes automated testing for the Urban Routes web app, which allows a user to order a taxi online. In the automation testing, I scripted my test to move through each "field" of fillable fields that are required in order to successfully place an order.
 
 ### Technologies and Techniques used
-Visual Studio Code: Code editor
-Node.js: JavaScript runtime environment
-Git: Version control system
-WebdriverIO: Automation testing framework
-Devtools
+1. Visual Studio Code: Code editor
+2. Node.js: JavaScript runtime environment
+3. Git: Version control system
+4. WebdriverIO: Automation testing framework
+5. Devtools
 
 #### Instruction how to run the tests:
 1. Clone the repo to your local computer git clone https://github.com/username/hm08-qa-us.git. Replace username with your Github username.
