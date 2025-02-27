@@ -18,12 +18,12 @@ Devtools:
 5. Run tests with npm run wdio
 
 ##### Test Scenarios Covered
-Setting the address
-Selecting Supportive plan
-Filling in the phone number
-Adding a credit card
-Writing a message for the driver
-Ordering a Blanket and handkerchiefs
-Ordering 2 Ice creams
-The car search modal appears
-Order info appears in the modal
+1. Setting the address
+2. Selecting Supportive plan
+3. Filling in the phone number
+4. Adding a credit card
+5. Writing a message for the driver
+6. Ordering a Blanket and handkerchiefs
+7. Ordering 2 Ice creams
+8. The car search modal appears
+9. Order info appears in the modal
